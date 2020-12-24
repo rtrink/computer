@@ -1,4 +1,4 @@
 # computer
 Simulated Computer
 
-Requires Logisim to run
+Requires Logisim (2.7.1) to run
